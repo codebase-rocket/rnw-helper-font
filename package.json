@@ -1,0 +1,17 @@
+{
+  "name": "@codebase-rocket/rnw-helper-font",
+  "description": "Library for loading fonts in React-Native & Web App.",
+  "version": "1.0.0",
+  "private": false,
+  "main": "font.js",
+  "dependencies": {
+    "@vitrion/react-native-load-fonts": "^0.3.1"
+  },
+  "author": {
+    "name": "Anand Kumar Singh"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "devDependencies": {}
+}
